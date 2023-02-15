@@ -1,7 +1,7 @@
 # 14DaysOfJavascript
 
 
-## 🛠 Tech Stack Used in this Repository...
+## 🛠 Tech Stack Used in this Repository
  <a href="" target="_blank"> <img src="https://camo.githubusercontent.com/c3a116928dc4560b0b08d4b4afe69b34844171f896529cc7572674965f2cd66c/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3137342f3137343835342e706e67" alt="html5" height="50" width="50"/> </a> 
    &nbsp;&nbsp;
  <a href="" target="_blank"> <img src="https://camo.githubusercontent.com/19245ec17eda7364486b88211a4f9893001661c78d384430843df7584f30ec4e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733322f3733323139302e706e67" alt="css3" height="50" width="50"/> </a>
